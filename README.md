@@ -18,7 +18,7 @@ Each “expert” makes multiple mock drafts; hence, to standardize the data, we
 for the given year. Additionally, some players they mock are not picked at all in the first round, so it is
 difficult to gauge accurately how “wrong” the experts were for players particularly at the end of the draft. 
 
-## Visualization Example:
+## Visualization Example
 ![nfl_draft_vis](https://user-images.githubusercontent.com/35086055/44422389-fa4b3680-a550-11e8-8629-401d25af7aac.png)
 
 ## Data Sources:
