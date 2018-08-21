@@ -4,6 +4,21 @@ the hopes of various franchises changed forever as they take chances on various 
 
 The visualization represents 10 years of 1st round mock drafts predicted by these experts compared with the actual outcomes. On the horizontal axis, there are the names of the 32 teams in the NFL and on the vertical axis, are the order of the picks, from 1 to 32. Each circle in the scatterplot represents a player picked during the i-th round by the j-th team along the horizontal axis. The color of the circle depicts how accurate the experts were to predicting the true outcome of the draft. 
 
+## Setup
+
+After installing node/npm/yarn:
+
+```sh
+npm install
+# then
+npm run start
+
+# or if using yarn
+yarn
+# then
+yarn start
+```
+
 ## Questions That This Visualization Seeks to Answer
 1) Which team do experts frequently misjudge?
 2) Which players did experts predict?
